@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Html-to-React-/static/css/main.972f4f7c.css",
-    "main.js": "/Html-to-React-/static/js/main.2857e227.js",
+    "main.js": "/Html-to-React-/static/js/main.265b5f22.js",
     "static/js/453.9b92e92f.chunk.js": "/Html-to-React-/static/js/453.9b92e92f.chunk.js",
     "static/media/fa-solid-900.ttf": "/Html-to-React-/static/media/fa-solid-900.de78ce19b6954a6f4144.ttf",
     "static/media/banner-right.png": "/Html-to-React-/static/media/banner-right.7f733e30a6e2e1a41ee1.png",
@@ -23,11 +23,11 @@
     "static/media/fa-v4compatibility.woff2": "/Html-to-React-/static/media/fa-v4compatibility.a9f39cf4a35334e80396.woff2",
     "index.html": "/Html-to-React-/index.html",
     "main.972f4f7c.css.map": "/Html-to-React-/static/css/main.972f4f7c.css.map",
-    "main.2857e227.js.map": "/Html-to-React-/static/js/main.2857e227.js.map",
+    "main.265b5f22.js.map": "/Html-to-React-/static/js/main.265b5f22.js.map",
     "453.9b92e92f.chunk.js.map": "/Html-to-React-/static/js/453.9b92e92f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.972f4f7c.css",
-    "static/js/main.2857e227.js"
+    "static/js/main.265b5f22.js"
   ]
 }
